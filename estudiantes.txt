@@ -1,3 +1,2 @@
-q03468j,Moises Aquino Cano,Av. Leoncio Prado entre Jr. Pachacutec,982277511,24 años
-
-k00349j,Ana Maria Palacios,Av. Los Alamos N°1060 - La Ribera,900600201,22 años
+Q03468J,MOISES AQUINO CANO,AV. LOS ALAMOS N°1060,987456321,24 años
+K60354G,RAMOS OLIVERA CAMPOS,AV. PACHACUTEC N°1090,963258741,29 años
